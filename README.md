@@ -5,3 +5,5 @@ How are graceful degradation and service workers related?
 
 Screenshot of pwa.png
 ![screenshot of pwa.png](pwa.png)
+
+[Link to GitHub Pages](https://khanggn.github.io/Lab8_Starter/)
