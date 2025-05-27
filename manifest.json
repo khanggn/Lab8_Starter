@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Khang Nguyen",
     "description": "Lab 8",
-    "start_url": "",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#5A827E",
     "theme_color": "#ffffff",
